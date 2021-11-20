@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+BRM BRM :tractor::tractor:
+
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/boneacrabonjac/notebook)
