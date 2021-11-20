@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-BRM BRM :tractor::tractor:
 ![Stats](https://github-readme-stats.vercel.app/api?username=kostarakonjac1331&show_icons=true&hide_border=true)
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/boneacrabonjac/notebook)
+
+
+BRMM BRMM :tractor::tractor:
